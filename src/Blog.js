@@ -20,7 +20,7 @@ function Blog() {
             <h4>Styling it up</h4>
             <p>Once I was happy that the application was working as intended, I used CSS to style the application to make it as visually appealing as I could. I tried to use some of the CSS frameworks out there but I haven’t yet found one that I understand well enough to implement. They all seem a bit complicated for me and it might be something I will try tackle for Phase 5 but for this phase I just stuck with writing my own CSS, importing a font from Google fonts and adding a background image to my login/signup page.</p>
             <h4>The final product</h4>
-            <p>With all this done, I had completed my application and I used Render to deploy this to the internet. The deployment didn’t go as well as I’d hoped and the app doesn’t work exactly the same as it does on my local environment but the jist of it is there and for now that’s good enough for me. You can see the final product at <a href="https://birdhouse-project.onrender.com/">https://birdhouse-project.onrender.com/</a> and I’ve added some screen shots of it below. Phase 4 done!</p> 
+            <p>With all this done, I had completed my application and I used Render to deploy this to the internet. You can see the final product at <a href="https://for-love-of-birds.onrender.com/">https://for-love-of-birds.onrender.com/</a> and I’ve added some screen shots of it below. Phase 4 done!</p> 
             <img id="blog-login" src="./blog-login.png" alt="For love of birds login/signup page"></img> 
             <img id="blog-home" src="./blog-home.png" alt="For love of birds home page"></img> 
         </div>
